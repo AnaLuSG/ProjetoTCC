@@ -88,4 +88,4 @@ ___
 
 
 - Criação do site no GitHub:
-- [Site CEMITEC](https://analusg.github.io/ProjetoTCC/) 
+- [Page CEMITEC](https://analusg.github.io/ProjetoTCC/) 
