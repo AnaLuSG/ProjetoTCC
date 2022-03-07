@@ -1,4 +1,4 @@
-# DIÁRIO DE BORDO - Fevereiro
+# Diário de bordo - Fevereiro
 
 ## **Semana 1 - 07/02 a 11/02**
 
