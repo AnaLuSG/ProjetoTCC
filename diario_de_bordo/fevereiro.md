@@ -18,10 +18,10 @@ ________
 ### Membros da Equipe CEMITEC:
 
 #### *Equipe de Desenvolvimento :*
-![equipe de desenvolvimento](.imagens/EquipeDES.png)
+![equipe de desenvolvimento](imagens/EquipeDES.png)
 
 #### *Equipe de Documentação :*
-![equipe de documentação](.imagens/EquipeDOC.png)
+![equipe de documentação](imagens/EquipeDOC.png)
 
 
 
@@ -60,7 +60,7 @@ ___
 
 - Criação da LOGO da Equipe:  
 
-![LOGO CEMITEC](.imagens/LogoCEMITEC.png)
+![LOGO CEMITEC](imagens/LogoCEMITEC.png)
 
 
 
