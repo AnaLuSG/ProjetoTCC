@@ -18,10 +18,10 @@ ________
 ### Membros da Equipe CEMITEC:
 
 #### *Equipe de Desenvolvimento :*
-![equipe de desenvolvimento](imagens/EquipeDES.png)
+![equipe de desenvolvimento](imagens/EquipeDES.jpg)
 
 #### *Equipe de Documentação :*
-![equipe de documentação](imagens/EquipeDOC.png)
+![equipe de documentação](imagens/EquipeDOC.jpg)
 
 
 
