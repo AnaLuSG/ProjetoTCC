@@ -60,7 +60,7 @@ ___
 
 - Criação da LOGO da Equipe:  
 
-![LOGO CEMITEC](imagens/LogoCEMITEC.png)
+![LOGO CEMITEC](imagens/LogoCEMITEC.jpg)
 
 
 
