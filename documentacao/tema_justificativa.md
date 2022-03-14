@@ -1,3 +1,1 @@
-Para programar o site escolhemos para o banco de dados o software MySQL por conta de ter ligação com a escolha da linguagem do back-end. No caso, a linguagem escolhida é o Python, optamos porque é uma linguagem muito conhecida e bem enxuta, além de que se trata de uma linguagem que já temos um conhecimento prévio, o que torna mais “fácil” sua utilização. E para ajudar na programação do back-end, usaremos o framework Django.
 
-Agora para programar o front-end, vamos usar HTML, CSS e JavaScript, também por já termos conhecimento prévio dessas linguagens que são usadas prioritariamente para esse tipo de programa.
