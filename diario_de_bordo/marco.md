@@ -1,5 +1,5 @@
-![grupomeeting](https://user-images.githubusercontent.com/100131086/161537343-0d1b8654-94f1-4a50-8499-10202f263871.jpg)
-![grupomeeting](https://user-images.githubusercontent.com/100131086/161537369-14aff25e-4744-4015-84c4-ff584510dbe7.jpg)
+
+
 # Diário de bordo - Março
 
 
@@ -27,6 +27,6 @@ ___
 - Reunião com os membros da Secretaria de Administração da cidade, diretor e vice-diretor da Etec e professores orientadores, na Prefeitura Municipal, para definir alguns aspectos a respeito do desenvolvimento e tirar as dúvidas;
 - Início das pesquisas aprofundadas para o desenvolvimento do site e começo de um curso online para aprendizado da ferramenta Django.
 
-![REUNIAO](./DiariodeBordo/Imagens/grupomeeting.jpg)                               
+![grupomeeting](https://user-images.githubusercontent.com/100131086/161537369-14aff25e-4744-4015-84c4-ff584510dbe7.jpg)                       
 
 
