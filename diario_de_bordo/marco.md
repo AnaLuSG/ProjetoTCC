@@ -1,3 +1,5 @@
+![grupomeeting](https://user-images.githubusercontent.com/100131086/161537343-0d1b8654-94f1-4a50-8499-10202f263871.jpg)
+![grupomeeting](https://user-images.githubusercontent.com/100131086/161537369-14aff25e-4744-4015-84c4-ff584510dbe7.jpg)
 # Diário de bordo - Março
 
 
