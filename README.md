@@ -33,19 +33,11 @@ Para programar o site escolhemos para o banco de dados esse software por conta d
 
 
 
-- [Python](https://www.python.org/about/)
+- [PHP](https://www.php.net/)
 
 
 
-No caso, a linguagem escolhida foi essa por é uma linguagem muito conhecida e bem enxuta, além de que se trata de uma linguagem que já temos um conhecimento prévio, o que torna mais “fácil” sua utilização.
-
-
-
-- [Django](https://www.djangoproject.com/)
-
-
-
-Para ajudar na programação do back-end, usaremos este framework.
+No caso, a linguagem escolhida foi essa por indicação dos nossos instrutores por causa do objetivo do nosso projeto.
 
 
 
