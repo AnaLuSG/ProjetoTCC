@@ -14,6 +14,18 @@
 
 ---
 
+## Semana 2 - 09/05 a 13/05
 
+
+
+* Desenvolvimento dos primeiros códigos da tela inicial;
+* Definição de alguns aspectos de melhoria e dúvidas a serem levadas para a Prefeitura, solucionar, e assim evoluirmos o Projeto;
+* Leitura e pesquisas de Artigos referente ao tema e desenvolvimento do projeto;
+* Desenvolvimento da primeira versão da Introdução do Artigo Científico;
+
+
+
+
+---
 
 
