@@ -4,7 +4,7 @@
 ---
 ## Menu:
 
- - Diário: 
+ - [Diário](./diario_de_bordo)
  - [Pagina](https://analusg.github.io/ProjetoTCC/) 
  - Introdução:
  - Referências: 
