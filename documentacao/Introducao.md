@@ -6,7 +6,7 @@ São bastante escassos estudos que tratam de políticas públicas e espaços pú
 
 Recuperar informações dos falecidos é uma tarefa bastante complicada, segundo Façanha et al. (2003): 
 
-“As estratégias para recuperar essas informações e saber se elas correspondem ao total dos óbitos ocorridos têm sido uma luta dos serviços de estatística e epidemiologia em saúde, que têm utilizado estimativas, censos, autópsias verbais, buscas ativas em serviços de saúde e cartórios.”
+> “As estratégias para recuperar essas informações e saber se elas correspondem ao total dos óbitos ocorridos têm sido uma luta dos serviços de estatística e epidemiologia em saúde, que têm utilizado estimativas, censos, autópsias verbais, buscas ativas em serviços de saúde e cartórios.”
 
 Em conformidade com o que diz Santiago (2018) o software desenvolvido tem a pretensão de descomplicar as visitas dos familiares que desconhecem a localização do sepulcro, e também apoia no cadastramento dos finados e auxilia o acesso aos documentos necessários.
 
