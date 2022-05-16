@@ -1,9 +1,9 @@
-##  Menu Diário - CEMITEC
+# Menu Diário - CEMITEC
 
-### [Fevereiro](./diario_de_bordo/fevereiro.md)
+[Fevereiro](./fevereiro.md)
 
-### [Março](./diario_de_bordo/marco.md)
+### [Março](./marco.md)
 
-### [Abril](./diario_de_bordo/abril.md)
+### [Abril](./abril.md)
 
-### [Maio](./diario_de_bordo/maio.md)
+### [Maio](./maio.md)
