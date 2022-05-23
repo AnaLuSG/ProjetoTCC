@@ -28,4 +28,10 @@
 
 ---
 
+## Semana 3 - 16/05 a 20/05
 
+* Organização da documentação no GitHub;
+* Finalização da Introdução;
+* Continuação do desenvolvimento da interface do site (que será o oficial);
+* Início do funcionamento do site;
+* Conversa e esclarecimento de dúvidas via email com a área responsável pelo assunto na Prefeitura.
