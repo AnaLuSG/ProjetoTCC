@@ -7,3 +7,5 @@ FAÇANHA, Mônica Cardoso et al. Busca ativa de óbitos em cemitérios da Regiã
 
 
 SANTIAGO, Cláudia et al. Uma modelagem de software para gerenciamento de cemitérios. 2018.
+
+PAULO, Marcos. Familiares encontram dificuldades para localizar túmulos em Porto Velho. nov 2013. Disponível em: https://g1.globo.com/ro/rondonia/noticia/2013/11/familiares-encontram-dificuldades-para-localizar-tumulos-em-porto-velho.html. Acesso em: 30 mai. 2022.
