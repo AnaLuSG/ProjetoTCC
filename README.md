@@ -6,7 +6,7 @@
  - [Diário](./diario_de_bordo/menu_diario.md)
  - [Página](https://analusg.github.io/ProjetoTCC/) 
  - [Introdução](./documentacao/Introducao.md)
- - [Justificativa](./documentacao/tema_justicativa.md)
+ - [Justificativa](./documentacao/tema_justificativa.md)
  - [Referências](./documentacao/Referencias.md) 
 
 ---
