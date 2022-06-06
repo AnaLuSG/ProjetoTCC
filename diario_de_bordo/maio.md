@@ -47,3 +47,10 @@
 
 ---
 
+## Semana 4 - 23/05 a 27/05
+
+* Revisão e complemento da Justificativa da escolha do tema;
+* Leitura de artigos e busca por referências;
+* Entrega da última versão da Justificativa.
+
+
