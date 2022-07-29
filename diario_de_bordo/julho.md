@@ -12,6 +12,8 @@
 - Recesso
 
 ## Semana 4 - 25/07 - 29/07
-- Recesso
+- Fim do Recesso no dia 26;
+- Atualização da Página GitHub;
+- Definição de Prazos.
 
 
