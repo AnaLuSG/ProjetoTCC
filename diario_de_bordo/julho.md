@@ -2,5 +2,16 @@
 
 
 
-## Semana 1 - 
+## Semana 1 - 04/07 - 08/07
+- Recesso
+
+## Semana 2 - 11/07 - 15/07
+- Recesso
+
+## Semana 3 - 18/07 - 22/07
+- Recesso
+
+## Semana 4 - 25/07 - 29/07
+- Recesso
+
 
