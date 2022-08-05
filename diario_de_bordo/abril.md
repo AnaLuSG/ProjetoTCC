@@ -20,7 +20,7 @@
 
 
 
-* Debate e definicao da Linguagem a ser utilizada (PHP), no código e no Site;
+* Debate e definiçãoo da Linguagem a ser utilizada (PHP), no código e no Site;
 
 ---
 
