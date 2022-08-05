@@ -4,7 +4,7 @@
 
 ## Semana 1 - 01/08 - 05/08
 - Atualização da Página GitHub;
-- ![Página de Login](MicrosoftTeams-image (2).png)
+- ![Página de Login](MicrosoftTeams-image (2).jpg)
 
 
 ## Semana 2 - 08/08 - 12/08
