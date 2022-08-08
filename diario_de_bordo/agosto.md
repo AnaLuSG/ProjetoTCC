@@ -4,12 +4,10 @@
 
 ## Semana 1 - 01/08 - 05/08
 - Atualização da Página GitHub;
-- 
+
 #### *login:*
 ![equipe de desenvolvimento](imagens/PrintLogins.jpg)
 
-#### *Equipe de Desenvolvimento :*
-![equipe de desenvolvimento](imagens/EquipeDES.jpg)
 
 ## Semana 2 - 08/08 - 12/08
 
