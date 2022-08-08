@@ -5,7 +5,7 @@
 ## Semana 1 - 01/08 - 05/08
 - Atualização da Página GitHub;
  
-![Página de Login](TCC/PrintLogins.jpg)
+![Página de Login](Nova pasta/3°D/TCC/PrintLogins.jpg)
 
 
 ## Semana 2 - 08/08 - 12/08
