@@ -5,7 +5,7 @@
 ## Semana 1 - 01/08 - 05/08
 - Atualização da Página GitHub;
 
-#### *login:*
+#### *Pag de login:*
 ![equipe de desenvolvimento](imagens/PrintLogins.jpg)
 
 
