@@ -6,7 +6,7 @@
 - Atualização da Página GitHub;
 #### *login:*
 ![pagina_de_login]("C:\Users\Aluno\Documents\Imagens\PrintLogins.jpg")
-
+![pag_de_LOGIN] (
 
 #### *Equipe de Desenvolvimento :*
 ![equipe de desenvolvimento](imagens/EquipeDES.jpg)
