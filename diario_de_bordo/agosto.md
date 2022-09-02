@@ -25,4 +25,5 @@
 
 ## Semana 5 - 29/08 - 02/09
 
-
+- Modelo canva
+- Fechamento  da correção dos textos
