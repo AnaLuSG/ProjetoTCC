@@ -25,5 +25,5 @@
 
 ## Semana 5 - 29/08 - 02/09
 
-- Modelo canva
+- Estudo da localização interna do cemiterio
 - Fechamento  da correção dos textos
