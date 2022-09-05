@@ -12,7 +12,7 @@
 
 
 ## Semana 2 - 08/08 - 12/08
-- Revisões e atuaçlizações de Progressos e localizações de dúvidas e dificuldades; 
+- Revisões e atualizações de Progressos e localizações de dúvidas e dificuldades; 
 
 ## Semana 3 - 15/08 - 19/08
 - Ida da equipe ao Cemitério Municipal de Itaiba;
@@ -25,5 +25,7 @@
 
 ## Semana 5 - 29/08 - 02/09
 
-- Estudo da localização interna do cemiterio
-- Fechamento  da correção dos textos
+- Estudo da localização interna do cemiterio;
+- Fechamento  da correção dos textos;
+- Modelo CANVA de Negócios sobre o Projeto;
+- Envio de um E-Mail solicitando recursos para a finalização do Banco de dados.
