@@ -30,3 +30,4 @@ ___
 ![grupomeeting](https://user-images.githubusercontent.com/100131086/161537369-14aff25e-4744-4015-84c4-ff584510dbe7.jpg)                       
 
 
+- [Diario Marco](https://github.com/AnaLuSG/ProjetoTCC/blob/main/diario_de_bordo/marco.md)
