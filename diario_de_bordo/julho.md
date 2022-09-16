@@ -17,3 +17,4 @@
 - Definição de Prazos.
 
 
+[Diario Julho](https://github.com/AnaLuSG/ProjetoTCC/blob/main/diario_de_bordo/julho.md)
