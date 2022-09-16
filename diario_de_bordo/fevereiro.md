@@ -89,3 +89,4 @@ ___
 
 - Criação do site no GitHub:
 - [Page CEMITEC](https://analusg.github.io/ProjetoTCC/) 
+- [Diario Fevereiro](https://github.com/AnaLuSG/ProjetoTCC/blob/main/diario_de_bordo/fevereiro.md)
