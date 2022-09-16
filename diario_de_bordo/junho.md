@@ -21,4 +21,4 @@
 
 ## Semana 4 - 27/06 a 01/07
 - Recesso
-[Diario Junho](https://github.com/AnaLuSG/ProjetoTCC/blob/main/diario_de_bordo/junho.md)
+
