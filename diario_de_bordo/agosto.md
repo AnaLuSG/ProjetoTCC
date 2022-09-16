@@ -29,3 +29,4 @@
 - Fechamento  da correção dos textos;
 - Modelo CANVAS de Negócios sobre o Projeto;
 - Envio de um E-Mail solicitando recursos para a finalização do Banco de dados.
+[Diario Agosto](https://github.com/AnaLuSG/ProjetoTCC/blob/main/diario_de_bordo/agosto.md)
