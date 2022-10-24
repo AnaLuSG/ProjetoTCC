@@ -19,6 +19,6 @@
 ## Semana 4 - 24/10 - 28/10
 - Finalização do Layout do Site, com acréscimo da logo da equipe e identificação dos integrantes;
 #### *Página Inicial :*
-![Página Inicial](imagens/PAGINAINICIALOFICIAL.jpg)
+![Página Inicial](imagens/PAGINAINICIALOFICIAL.PNG)
 - Finalização da Documentação do Site;
 - Evento de Inauguração do Site da Equipe CEMITEC para a cidade de Itatiba.
