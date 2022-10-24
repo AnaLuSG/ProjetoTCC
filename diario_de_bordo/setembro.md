@@ -10,9 +10,10 @@
 
 
 ## Semana 3 - 19/09 - 23/09
-
+- Gravação do vídeo para a Feira de Ciência e Tecnologia BRAGANTEC e divulgação do projeto;
+- Produção do Banner para a Feira FEETEPS;
 
 
 ## Semana 4 - 26/09 - 30/09
-
-
+- Impressão do Banner para a Feira de Ciência e Tecnologia BRAGANTEC;
+- Produção do relatório para a Feira FEETEPS;
