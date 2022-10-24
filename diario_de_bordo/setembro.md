@@ -6,7 +6,7 @@
 
 
 ## Semana 2 - 12/09 - 16/09
-- Início da produção do Bunner para a Feira de Ciência e Tecnologia BRAGANTEC;
+- Início da produção do Banner para a Feira de Ciência e Tecnologia BRAGANTEC;
 
 
 ## Semana 3 - 19/09 - 23/09
